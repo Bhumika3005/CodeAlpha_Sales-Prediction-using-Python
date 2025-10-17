@@ -1,7 +1,7 @@
 # Sales Prediction usin python
 This project demonstrates how to predict product sales based on advertising spend across different media platforms using Linear Regression in  Python. It uses the Advertising dataset, a classic dataset in machine learning and marketing analytics, and explores how investments in TV, Radio, and Newspaper impact sales outcomes.
 
-Objectives
+Objectives:
 
 Load and explore advertising data.
 
