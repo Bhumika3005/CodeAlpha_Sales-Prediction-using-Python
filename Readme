@@ -3,12 +3,12 @@ This project demonstrates how to predict product sales based on advertising spen
 
 Objectives:
 
-Load and explore advertising data.
+1. Load and explore advertising data.
 
-Perform EDA (exploratory data analysis) using visualization.
+2. Perform EDA (exploratory data analysis) using visualization.
 
-Build and train a Linear Regression model.
+3. Build and train a Linear Regression model.
 
-Evaluate the model using R², MAE, and MSE metrics.
+4. Evaluate the model using R², MAE, and MSE metrics.
 
-Predict future sales based on hypothetical ad spend scenarios.
+5. Predict future sales based on hypothetical ad spend scenarios.
